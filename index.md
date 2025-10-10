@@ -5,68 +5,14 @@ tagline: Easy websites with GitHub Pages
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using
-[Markdown](https://daringfireball.net/projects/markdown/) and
-[git](https://git-scm.com).
+I am currently a Research Scientist III, in the Data and Analytics Division within the Epidemiological Research Section, at the [Center for Health Care Quality](https://www.cdph.ca.gov/Programs/CHCQ/Pages/CHCQHome.aspx), [California Department of Public Health](https://www.cdph.ca.gov/). I am also a Marquette alumnus, an ex-BUETian, and an ex-cadet.
 
-For me, the painful aspects of making a website are
+I have 5+ years of research experience in Machine Learning & Data Science for healthcare; as well as software development & engineering. I have had 15+ publications and service as reviewer in 10+ conferences and journals in the Healthcare and Machine Learning domain. Currently, I am actively working in the field of ***Causal Inference***; my primary focus is to apply Causal Inference and related theories in exploring cause-and-effect relationships in experimental and observational datasets.
 
-- Working with html and css
-- Finding a hosting site
-- Transferring stuff to the hosting site
+My research goals aim to achieve ***data-driven causal explorations***, mostly for ***Electronic Healthcare Data*** My primary tools are ***Structural Causal Models***, ***Propensity Score Matching***, ***A/B Testing*** and a little bit of ***Do-Why***. Please visit my [research page](/research) to read more on this.
 
-With [GitHub Pages](https://pages.github.com), you just write things in
-[Markdown](https://daringfireball.net/projects/markdown/),
-[GitHub](https://github.com) hosts the site for you, and you just push
-material to your GitHub repository with `git add`, `git commit`, and
-`git push`.
-
-If you love [git](https://git-scm.com/) and
-[GitHub](https://github.com), you'll love
-[GitHub Pages](https://pages.github.com), too.
-
-The sites use [Jekyll](https://jekyllrb.com/), a
-[ruby](https://www.ruby-lang.org/en/) [gem](https://rubygems.org/), to
-convert Markdown files to html, and this part is done
-automatically when you push the materials to the `gh-pages` branch
-of a GitHub repository.
-
-The [GitHub](https://pages.github.com) and
-[Jekyll](https://jekyllrb.com) documentation is great, but I thought it
-would be useful to have a minimal tutorial, for those who just want to
-get going immediately with a simple site. To some readers, what GitHub
-has might be simpler and more direct.  But if you just want to create
-a site like the one you're looking at now, read on.
-
-Start by reading the [Overview page](pages/overview.html), which
-explains the basic structure of these sites. Then read
-[how to make an independent website](pages/independent_site.html). Then
-read any of the other things, such as
-[how to test your site locally](pages/local_test.html).
-
-- [Overview](pages/overview.html)
-- [Making an independent website](pages/independent_site.html)
-- [Making a personal site](pages/user_site.html)
-- [Making a site for a project](pages/project_site.html)
-- [Making a jekyll-free site](pages/nojekyll.html)
-- [Testing your site locally](pages/local_test.html)
-- [Resources](pages/resources.html)
-
-If anything here is confusing (or _wrong_!), or if I've missed
-important details, please
-[submit an issue](https://github.com/kbroman/simple_site/issues), or (even
-better) fork [the GitHub repository for this website](https://github.com/kbroman/simple_site),
-make modifications, and submit a pull request.
+Outside research activities, I destress mostly by singing. My other hobbies include playing guitar, reading thriller books, playing board games, PS5 games & basketball, and some more. Please visit my [hobbies page](/hobbies) to read more on this.
 
 ---
 
-The source for this minimal tutorial is [on github](https://github.com/kbroman/simple_site).
-
-Also see my [tutorials](https://kbroman.org/tutorials) on
-[git/github](https://kbroman.org/github_tutorial),
-[GNU make](https://kbroman.org/minimal_make),
-[knitr](https://kbroman.org/knitr_knutshell),
-[R packages](https://kbroman.org/pkg_primer),
-[data organization](https://kbroman.org/dataorg),
-and [reproducible research](https://kbroman.org/steps2rr).
+_The contents, including all opinions and views expressed or implied, are entirely personal and do not necessarily represent the opinions or views of any other person or organization including the California Department of Public Health. The California Department of Public Health has not reviewed or approved, and is not responsible for, the material contained in this profile._
