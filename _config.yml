@@ -8,15 +8,15 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : simple site
+title : Riddhi's Personal Website
 author :
-  name : Karl Broman
-  email : kbroman@gmail.com
-  github : kbroman
+  name : Riddhiman Adib
+  email : riddhiman.adib@gmail.com
+  github : riddhimanadib
   feedburner : nil
 
 # NOTE: Replacing this next line with your own URL
-production_url : https://kbroman.github.io/simple_site
+production_url : https://riddhimanadib.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
