@@ -105,12 +105,8 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
 
-# Enable collections if not already
+# Enable collections for blog
 collections:
   posts:
     output: true
     permalink: /blog/:title/
-
-# Optional: set your blog title
-title: My Website
-description: My personal website with blog

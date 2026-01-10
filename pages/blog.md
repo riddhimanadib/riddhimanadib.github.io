@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Blog
-permalink: /blog/
+tagline: Thoughts unfolded, one post at a time
+description: Thoughts unfolded, one post at a time
 ---
 
 <ul>
