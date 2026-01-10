@@ -77,7 +77,7 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : false
+    provider : giscus
 
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
@@ -104,3 +104,13 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
+
+# Enable collections if not already
+collections:
+  posts:
+    output: true
+    permalink: /blog/:title/
+
+# Optional: set your blog title
+title: My Website
+description: My personal website with blog
